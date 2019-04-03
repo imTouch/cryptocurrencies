@@ -1,0 +1,6 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="150" cy="150" r="150" fill="#5A68F6"/>
+<circle opacity="0.2" cx="150" cy="150" r="119.5" stroke="white" stroke-linecap="round" stroke-dasharray="8 8"/>
+<circle cx="150" cy="150" r="84.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 8"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M218.7 74H80.3V108.667H132.2V122.098C92.7175 124.104 63 132.847 63 143.333C63 153.82 92.7175 162.563 132.2 164.568V230H166.8V164.568C206.283 162.563 236 153.82 236 143.333C236 132.847 206.283 124.104 166.8 122.098V108.667H218.7V74ZM132.2 124.29V152H166.8V124.29C201.468 126.152 227.35 133.482 227.35 142.25C227.35 152.423 192.497 160.667 149.5 160.667C106.503 160.667 71.65 152.423 71.65 142.25C71.65 133.482 97.5324 126.152 132.2 124.29Z" fill="white"/>
+</svg>
